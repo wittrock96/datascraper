@@ -1,0 +1,23 @@
+{
+  "name": "datascrape",
+  "version": "1.0.0",
+  "description": "a package for data scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "scrape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittrock96/datascraper.git"
+  },
+  "keywords": [
+    "datascraper",
+    "forms"
+  ],
+  "author": "Cole Wittrock",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/wittrock96/datascraper/issues"
+  },
+  "homepage": "https://github.com/wittrock96/datascraper#readme"
+}
